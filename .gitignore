@@ -1,0 +1,9 @@
+# executables
+cmd/server/server
+cmd/client/client
+
+# OS X files
+.DS_Store
+
+# configuration
+cmd/server/config.yml
